@@ -1,0 +1,702 @@
+[
+      {
+        "index": 1,
+        "quest": "What is the chemical symbol for water?",
+        "options": ["H2O", "O2", "CO2", "H2"],
+        "answer": "H2O",
+        "category": "Science and Technology"
+      },
+      {
+        "index": 2,
+        "quest": "Who invented the lightbulb?",
+        "options": ["Nikola Tesla", "Alexander Graham Bell", "Thomas Edison", "Albert Einstein"],
+        "answer": "Thomas Edison",
+        "category": "Science and Technology"
+      },
+      {
+        "index": 3,
+        "quest": "What does CPU stand for in computing?",
+        "options": ["Central Process Unit", "Central Processing Unit", "Central Processor Unit", "Central Power Unit"],
+        "answer": "Central Processing Unit",
+        "category": "Science and Technology"
+      },
+      {
+        "index": 4,
+        "quest": "What is the main component of the Earth's atmosphere?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "answer": "Nitrogen",
+        "category": "Science and Technology"
+      },
+      {
+        "index": 5,
+        "quest": "Which company developed the first computer mouse?",
+        "options": ["Microsoft", "Apple", "IBM", "Xerox"],
+        "answer": "Xerox",
+        "category": "Science and Technology"
+      },
+      {
+        "index": 6,
+        "quest": "What comes next in the series: 2, 4, 6, 8, ...?",
+        "options": ["10", "12", "9", "11"],
+        "answer": "10",
+        "category": "Reasoning"
+      },
+      {
+        "index": 7,
+        "quest": "If you have 3 apples and give away 2, how many do you have left?",
+        "options": ["1", "2", "3", "0"],
+        "answer": "1",
+        "category": "Reasoning"
+      },
+      {
+        "index": 8,
+        "quest": "If two cars start at the same time from the same point and travel in opposite directions, what is the distance between them after one hour if they are moving at 50 km/h each?",
+        "options": ["50 km", "100 km", "150 km", "200 km"],
+        "answer": "100 km",
+        "category": "Reasoning"
+      },
+      {
+        "index": 9,
+        "quest": "If a clock shows 3:15, what is the angle between the hour and minute hands?",
+        "options": ["0°", "45°", "90°", "22.5°"],
+        "answer": "7.5°",
+        "category": "Reasoning"
+      },
+      {
+        "index": 10,
+        "quest": "If you flip a coin 3 times, what is the probability of getting all heads?",
+        "options": ["1/8", "1/4", "1/2", "1/16"],
+        "answer": "1/8",
+        "category": "Reasoning"
+      },
+      {
+        "index": 11,
+        "quest": "What is the largest species of shark?",
+        "options": ["Great White Shark", "Hammerhead Shark", "Whale Shark", "Tiger Shark"],
+        "answer": "Whale Shark",
+        "category": "Zoology"
+      },
+      {
+        "index": 12,
+        "quest": "Which animal is known as the 'King of the Jungle'?",
+        "options": ["Elephant", "Lion", "Tiger", "Bear"],
+        "answer": "Lion",
+        "category": "Zoology"
+      },
+      {
+        "index": 13,
+        "quest": "Which bird is known for its colorful feathers and ability to mimic human speech?",
+        "options": ["Parrot", "Crow", "Sparrow", "Pigeon"],
+        "answer": "Parrot",
+        "category": "Zoology"
+      },
+      {
+        "index": 14,
+        "quest": "Which mammal is known for being the fastest animal on land?",
+        "options": ["Cheetah", "Lion", "Tiger", "Leopard"],
+        "answer": "Cheetah",
+        "category": "Zoology"
+      },
+      {
+        "index": 15,
+        "quest": "What is the largest land animal on Earth?",
+        "options": ["Elephant", "Hippopotamus", "Rhinoceros", "Giraffe"],
+        "answer": "Elephant",
+        "category": "Zoology"
+      },
+      {
+        "index": 16,
+        "quest": "What is the main ingredient in guacamole?",
+        "options": ["Tomato", "Avocado", "Lemon", "Cucumber"],
+        "answer": "Avocado",
+        "category": "Food and Drink"
+      },
+      {
+        "index": 17,
+        "quest": "Which country is the origin of sushi?",
+        "options": ["China", "Japan", "Korea", "Thailand"],
+        "answer": "Japan",
+        "category": "Food and Drink"
+      },
+      {
+        "index": 18,
+        "quest": "What is the most commonly used spice in Indian cuisine?",
+        "options": ["Cumin", "Curry powder", "Saffron", "Turmeric"],
+        "answer": "Turmeric",
+        "category": "Food and Drink"
+      },
+      {
+        "index": 19,
+        "quest": "Which of the following is a type of pasta?",
+        "options": ["Focaccia", "Tiramisu", "Lasagna", "Pizza"],
+        "answer": "Lasagna",
+        "category": "Food and Drink"
+      },
+      {
+        "index": 20,
+        "quest": "What type of fruit is a Granny Smith?",
+        "options": ["Apple", "Orange", "Banana", "Grape"],
+        "answer": "Apple",
+        "category": "Food and Drink"
+      },
+      {
+        "index": 21,
+        "quest": "What is the capital of Japan?",
+        "options": ["Beijing", "Seoul", "Tokyo", "Bangkok"],
+        "answer": "Tokyo",
+        "category": "Geography"
+      },
+      {
+        "index": 22,
+        "quest": "Which river is the longest in the world?",
+        "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+        "answer": "Nile",
+        "category": "Geography"
+      },
+      {
+        "index": 23,
+        "quest": "Which country is known as the 'Land of the Rising Sun'?",
+        "options": ["China", "Japan", "Thailand", "India"],
+        "answer": "Japan",
+        "category": "Geography"
+      },
+      {
+        "index": 24,
+        "quest": "Which continent is the Sahara Desert located on?",
+        "options": ["Asia", "Africa", "Australia", "South America"],
+        "answer": "Africa",
+        "category": "Geography"
+      },
+      {
+        "index": 25,
+        "quest": "What is the smallest country in the world?",
+        "options": ["Monaco", "Nauru", "Vatican City", "San Marino"],
+        "answer": "Vatican City",
+        "category": "Geography"
+      },
+      {
+        "index": 26,
+        "quest": "Who developed the theory of relativity?",
+        "options": ["Isaac Newton", "Albert Einstein", "Nikola Tesla", "Galileo Galilei"],
+        "answer": "Albert Einstein",
+        "category": "Science and Technology"
+      },
+      {
+        "index": 27,
+        "quest": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "answer": "Jupiter",
+        "category": "Science and Technology"
+      },
+      {
+        "index": 28,
+        "quest": "What is the formula for calculating speed?",
+        "options": ["Distance / Time", "Time / Distance", "Speed x Time", "Distance x Time"],
+        "answer": "Distance / Time",
+        "category": "Science and Technology"
+      },
+      {
+        "index": 29,
+        "quest": "What is the device used to measure temperature?",
+        "options": ["Barometer", "Thermometer", "Anemometer", "Altimeter"],
+        "answer": "Thermometer",
+        "category": "Science and Technology"
+      },
+      {
+        "index": 30,
+        "quest": "What is the speed of light?",
+        "options": ["3.00 x 10^8 m/s", "2.99 x 10^8 m/s", "3.00 x 10^6 m/s", "2.99 x 10^6 m/s"],
+        "answer": "3.00 x 10^8 m/s",
+        "category": "Science and Technology"
+      },
+      {
+        "index": 31,
+        "quest": "Which number comes next: 1, 1, 2, 3, 5, 8, ...?",
+        "options": ["13", "10", "12", "11"],
+        "answer": "13",
+        "category": "Reasoning"
+      },
+      {
+        "index": 32,
+        "quest": "If there are 4 apples and you take away 3, how many apples do you have?",
+        "options": ["1", "2", "3", "4"],
+        "answer": "3",
+        "category": "Reasoning"
+      },
+      {
+        "index": 33,
+        "quest": "Which comes next in the pattern: A, C, E, G, ...?",
+        "options": ["I", "H", "J", "K"],
+        "answer": "I",
+        "category": "Reasoning"
+      },
+      {
+        "index": 34,
+        "quest": "Which word is the odd one out: Dog, Cat, Rabbit, Carrot?",
+        "options": ["Dog", "Cat", "Rabbit", "Carrot"],
+        "answer": "Carrot",
+        "category": "Reasoning"
+      },
+      {
+        "index": 35,
+        "quest": "What is the result of 15 x 12?",
+        "options": ["180", "175", "195", "150"],
+        "answer": "180",
+        "category": "Reasoning"
+      },
+      {
+        "index": 36,
+        "quest": "Which animal is known for its black and white stripes?",
+        "options": ["Zebra", "Tiger", "Giraffe", "Cheetah"],
+        "answer": "Zebra",
+        "category": "Zoology"
+      },
+      {
+        "index": 37,
+        "quest": "What is the fastest bird in the world?",
+        "options": ["Peregrine Falcon", "Eagle", "Hawk", "Ostrich"],
+        "answer": "Peregrine Falcon",
+        "category": "Zoology"
+      },
+      {
+        "index": 38,
+        "quest": "What is the largest mammal in the world?",
+        "options": ["Blue Whale", "Elephant", "Giraffe", "Shark"],
+        "answer": "Blue Whale",
+        "category": "Zoology"
+      },
+      {
+        "index": 39,
+        "quest": "Which animal has the longest lifespan?",
+        "options": ["Elephant", "Tortoise", "Shark", "Whale"],
+        "answer": "Tortoise",
+        "category": "Zoology"
+      },
+      {
+        "index": 40,
+        "quest": "Which animal is known for its ability to change colors?",
+        "options": ["Chameleon", "Octopus", "Squid", "Snake"],
+        "answer": "Chameleon",
+        "category": "Zoology"
+      },
+      {
+        "index": 41,
+        "quest": "Which type of cheese is used in a traditional Greek salad?",
+        "options": ["Cheddar", "Feta", "Mozzarella", "Parmesan"],
+        "answer": "Feta",
+        "category": "Food and Drink"
+      },
+      {
+        "index": 42,
+        "quest": "Which fruit is known for having its seeds on the outside?",
+        "options": ["Strawberry", "Apple", "Orange", "Banana"],
+        "answer": "Strawberry",
+        "category": "Food and Drink"
+      },
+      {
+        "index": 43,
+        "quest": "What is the main ingredient in hummus?",
+        "options": ["Chickpeas", "Tomatoes", "Peas", "Lentils"],
+        "answer": "Chickpeas",
+        "category": "Food and Drink"
+      },
+      {
+        "index": 44,
+        "quest": "Which alcoholic drink is made from fermented barley?",
+        "options": ["Vodka", "Whiskey", "Rum", "Gin"],
+        "answer": "Whiskey",
+        "category": "Food and Drink"
+      },
+      {
+        "index": 45,
+        "quest": "What is the primary ingredient in sushi rolls?",
+        "options": ["Rice", "Seaweed", "Fish", "Rice and Fish"],
+        "answer": "Rice and Fish",
+        "category": "Food and Drink"
+      },
+      {
+        "index": 46,
+        "quest": "What kind of nut is used to make marzipan?",
+        "options": ["Almond", "Cashew", "Pistachio", "Walnut"],
+        "answer": "Almond",
+        "category": "Food and Drink"
+      },
+      {
+        "index": 47,
+        "quest": "Which continent is the largest by area?",
+        "options": ["Asia", "Africa", "North America", "Europe"],
+        "answer": "Asia",
+        "category": "Geography"
+      },
+      {
+        "index": 48,
+        "quest": "What is the capital of Canada?",
+        "options": ["Ottawa", "Toronto", "Vancouver", "Montreal"],
+        "answer": "Ottawa",
+        "category": "Geography"
+      },
+      {
+        "index": 49,
+        "quest": "What is the longest mountain range in the world?",
+        "options": ["Himalayas", "Andes", "Rockies", "Alps"],
+        "answer": "Andes",
+        "category": "Geography"
+      },
+      {
+        "index": 50,
+        "quest": "What is the largest desert in the world?",
+        "options": ["Sahara", "Gobi", "Kalahari", "Antarctic Desert"],
+        "answer": "Antarctic Desert",
+        "category": "Geography"
+      },
+      {
+        "index": 51,
+        "quest": "Which city is known as the 'City of Love'?",
+        "options": ["Rome", "Paris", "Venice", "Barcelona"],
+        "answer": "Paris",
+        "category": "Geography"
+      },
+      {
+        "index": 52,
+        "quest": "Which planet is known as the Red Planet?",
+        "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+        "answer": "Mars",
+        "category": "Science and Technology"
+      },
+      {
+        "index": 53,
+        "quest": "What is the primary source of energy for the Earth?",
+        "options": ["The Moon", "The Sun", "Wind", "Water"],
+        "answer": "The Sun",
+        "category": "Science and Technology"
+      },
+      {
+        "index": 54,
+        "quest": "Who is known as the father of modern physics?",
+        "options": ["Isaac Newton", "Albert Einstein", "Niels Bohr", "Galileo Galilei"],
+        "answer": "Albert Einstein",
+        "category": "Science and Technology"
+      },
+      {
+        "index": 55,
+        "quest": "What does DNA stand for?",
+        "options": ["Deoxyribonucleic Acid", "Deoxyribose Nucleic Acid", "Dioxyribonucleic Acid", "Deoxyribose Natural Acid"],
+        "answer": "Deoxyribonucleic Acid",
+        "category": "Science and Technology"
+      },
+      {
+        "index": 56,
+        "quest": "Which scientist discovered the laws of motion?",
+        "options": ["Isaac Newton", "Albert Einstein", "Nikola Tesla", "Marie Curie"],
+        "answer": "Isaac Newton",
+        "category": "Science and Technology"
+      },
+      {
+        "index": 57,
+        "quest": "What comes next in the series: 3, 6, 9, 12, ...?",
+        "options": ["13", "15", "18", "14"],
+        "answer": "15",
+        "category": "Reasoning"
+      },
+      {
+        "index": 58,
+        "quest": "Which number is the odd one out: 15, 20, 25, 30, 40?",
+        "options": ["15", "20", "25", "40"],
+        "answer": "15",
+        "category": "Reasoning"
+      },
+      {
+        "index": 59,
+        "quest": "Which comes next in the pattern: A, B, D, F, ...?",
+        "options": ["H", "G", "I", "J"],
+        "answer": "H",
+        "category": "Reasoning"
+      },
+      {
+        "index": 60,
+        "quest": "If there are 5 oranges and you take away 3, how many oranges do you have?",
+        "options": ["2", "3", "4", "1"],
+        "answer": "3",
+        "category": "Reasoning"
+      },
+      {
+        "index": 61,
+        "quest": "What is the next number in the series: 2, 4, 8, 16, ...?",
+        "options": ["20", "32", "30", "25"],
+        "answer": "32",
+        "category": "Reasoning"
+      },
+      {
+        "index": 62,
+        "quest": "What is the fastest fish in the world?",
+        "options": ["Shark", "Swordfish", "Tuna", "Salmon"],
+        "answer": "Swordfish",
+        "category": "Zoology"
+      },
+      {
+        "index": 63,
+        "quest": "Which animal is known for having a long neck?",
+        "options": ["Giraffe", "Elephant", "Kangaroo", "Koala"],
+        "answer": "Giraffe",
+        "category": "Zoology"
+      },
+      {
+        "index": 64,
+        "quest": "What is the name of the largest species of penguin?",
+        "options": ["Emperor Penguin", "King Penguin", "Adelie Penguin", "Macaroni Penguin"],
+        "answer": "Emperor Penguin",
+        "category": "Zoology"
+      },
+      {
+        "index": 65,
+        "quest": "Which animal is known for producing silk?",
+        "options": ["Bee", "Silkworm", "Spider", "Caterpillar"],
+        "answer": "Silkworm",
+        "category": "Zoology"
+      },
+      {
+        "index": 66,
+        "quest": "What is the primary diet of pandas?",
+        "options": ["Bamboo", "Fish", "Fruits", "Meat"],
+        "answer": "Bamboo",
+        "category": "Zoology"
+      },
+      {
+        "index": 67,
+        "quest": "Which fruit is the main ingredient in guacamole?",
+        "options": ["Tomato", "Avocado", "Lemon", "Cucumber"],
+        "answer": "Avocado",
+        "category": "Food and Drink"
+      },
+      {
+        "index": 68,
+        "quest": "What is the name of the famous Italian dish made of pasta, cheese, and tomato sauce?",
+        "options": ["Pizza", "Spaghetti", "Lasagna", "Risotto"],
+        "answer": "Spaghetti",
+        "category": "Food and Drink"
+      },
+      {
+        "index": 69,
+        "quest": "Which nut is used to make peanut butter?",
+        "options": ["Almond", "Cashew", "Peanut", "Walnut"],
+        "answer": "Peanut",
+        "category": "Food and Drink"
+      },
+      {
+        "index": 70,
+        "quest": "What is the name of the French dessert made from meringue and filled with whipped cream?",
+        "options": ["Eclair", "Macaron", "Pavlova", "Mousse"],
+        "answer": "Pavlova",
+        "category": "Food and Drink"
+      },
+      {
+        "index": 71,
+        "quest": "Which drink is made from fermented grapes?",
+        "options": ["Beer", "Whiskey", "Wine", "Vodka"],
+        "answer": "Wine",
+        "category": "Food and Drink"
+      },
+      {
+        "index": 72,
+        "quest": "Which country is the largest by land area?",
+        "options": ["Canada", "Russia", "China", "United States"],
+        "answer": "Russia",
+        "category": "Geography"
+      },
+      {
+        "index": 73,
+        "quest": "Which mountain range separates Europe from Asia?",
+        "options": ["Andes", "Himalayas", "Alps", "Ural Mountains"],
+        "answer": "Ural Mountains",
+        "category": "Geography"
+      },
+      {
+        "index": 74,
+        "quest": "Which island country is located southeast of India?",
+        "options": ["Sri Lanka", "Maldives", "Bangladesh", "Nepal"],
+        "answer": "Sri Lanka",
+        "category": "Geography"
+      },
+      {
+        "index": 75,
+        "quest": "Which desert is located in Northern Africa?",
+        "options": ["Kalahari", "Sahara", "Gobi", "Atacama"],
+        "answer": "Sahara",
+        "category": "Geography"
+      },
+      {
+        "index": 76,
+        "quest": "Which country is home to the Great Barrier Reef?",
+        "options": ["Australia","New Zealand","Chile","South Africa"],
+        "answer": "Australia",
+        "category": "Geography"
+      },
+      {
+        "index": 77,
+        "quest": "Which river is the longest in the world?",
+        "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+        "answer": "Nile",
+        "category": "Geography"
+      },
+      {
+        "index": 78,
+        "quest": "What is the capital of Japan?",
+        "options": ["Tokyo", "Kyoto", "Osaka", "Hiroshima"],
+        "answer": "Tokyo",
+        "category": "Geography"
+      },
+      {
+        "index": 79,
+        "quest": "Which country has the most pyramids in the world?",
+        "options": ["Egypt", "Mexico", "Sudan", "Peru"],
+        "answer": "Sudan",
+        "category": "Geography"
+      },
+      {
+        "index": 80,
+        "quest": "What is the smallest country in the world?",
+        "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+        "answer": "Vatican City",
+        "category": "Geography"
+      },
+      {
+        "index": 81,
+        "quest": "Which element is most abundant in the Earth's atmosphere?",
+        "options": ["Oxygen", "Nitrogen", "Carbon", "Hydrogen"],
+        "answer": "Nitrogen",
+        "category": "Science and Technology"
+      },
+      {
+        "index": 82,
+        "quest": "What device is used to measure temperature?",
+        "options": ["Thermometer", "Barometer", "Altimeter", "Speedometer"],
+        "answer": "Thermometer",
+        "category": "Science and Technology"
+      },
+      {
+        "index": 83,
+        "quest": "Which planet has the most moons?",
+        "options": ["Jupiter", "Saturn", "Mars", "Uranus"],
+        "answer": "Jupiter",
+        "category": "Science and Technology"
+      },
+      {
+        "index": 84,
+        "quest": "Which part of the plant is responsible for photosynthesis?",
+        "options": ["Roots", "Stems", "Leaves", "Flowers"],
+        "answer": "Leaves",
+        "category": "Science and Technology"
+      },
+      {
+        "index": 85,
+        "quest": "Who invented the telephone?",
+        "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Benjamin Franklin"],
+        "answer": "Alexander Graham Bell",
+        "category": "Science and Technology"
+      },
+      {
+        "index": 86,
+        "quest": "If a clock shows 3:00, how many angles are formed between the hour hand and the minute hand?",
+        "options": ["0 degrees", "90 degrees", "180 degrees", "45 degrees"],
+        "answer": "90 degrees",
+        "category": "Reasoning"
+      },
+      {
+        "index": 87,
+        "quest": "Which is the next number in this series: 1, 4, 9, 16, ...?",
+        "options": ["22", "25", "30", "36"],
+        "answer": "25",
+        "category": "Reasoning"
+      },
+      {
+        "index": 88,
+        "quest": "If the sum of two numbers is 20 and one of the numbers is 12, what is the other number?",
+        "options": ["8", "10", "6", "7"],
+        "answer": "8",
+        "category": "Reasoning"
+      },
+      {
+        "index": 89,
+        "quest": "Which word does not belong to the group: Apple, Banana, Carrot, Grape?",
+        "options": ["Apple", "Banana", "Carrot", "Grape"],
+        "answer": "Carrot",
+        "category": "Reasoning"
+      },
+      {
+      "index": 90,
+      "quest": "If all roses are flowers and some flowers fade quickly, can we conclude that some roses fade quickly?",
+      "options": ["Yes", "No", "Not enough information", "Depends on the rose"],
+      "answer": "Not enough information",
+      "category": "Reasoning"
+    },
+    {
+      "index": 91,
+      "quest": "Which animal is known to have the longest lifespan?",
+      "options": ["Elephant", "Whale", "Tortoise", "Shark"],
+      "answer": "Tortoise",
+      "category": "Zoology"
+    },
+    {
+      "index": 92,
+      "quest": "Which animal is known as the 'King of the Jungle'?",
+      "options": ["Lion", "Tiger", "Elephant", "Giraffe"],
+      "answer": "Lion",
+      "category": "Zoology"
+    },
+    {
+      "index": 93,
+      "quest": "What type of animal is a Komodo dragon?",
+      "options": ["Lizard", "Snake", "Crocodile", "Bird"],
+      "answer": "Lizard",
+      "category": "Zoology"
+    },
+    {
+      "index": 94,
+      "quest": "What is the fastest land animal?",
+      "options": ["Lion", "Cheetah", "Elephant", "Horse"],
+      "answer": "Cheetah",
+      "category": "Zoology"
+    },
+    {
+      "index": 95,
+      "quest": "What is the largest species of bear?",
+      "options": ["Grizzly", "Polar Bear", "Panda", "Koala"],
+      "answer": "Polar Bear",
+      "category": "Zoology"
+    },
+    {
+      "index": 96,
+      "quest": "Which fruit is known for being the primary source of vitamin C?",
+      "options": ["Banana", "Orange", "Apple", "Mango"],
+      "answer": "Orange",
+      "category": "Food and Drink"
+    },
+    {
+      "index": 97,
+      "quest": "Which food is the main ingredient of a traditional English breakfast?",
+      "options": ["Eggs", "Bacon", "Toast", "Beans"],
+      "answer": "Bacon",
+      "category": "Food and Drink"
+    },
+    {
+      "index": 98,
+      "quest": "Which drink is made from fermented grains?",
+      "options": ["Cider", "Beer", "Wine", "Whiskey"],
+      "answer": "Beer",
+      "category": "Food and Drink"
+    },
+    {
+      "index": 99,
+      "quest": "Which cheese is traditionally used in pizza?",
+      "options": ["Cheddar", "Mozzarella", "Feta", "Gouda"],
+      "answer": "Mozzarella",
+      "category": "Food and Drink"
+    },
+    {
+      "index": 100,
+      "quest": "What is the main ingredient in a Caesar salad dressing?",
+      "options": ["Vinegar", "Mayonnaise", "Anchovies", "Mustard"],
+      "answer": "Anchovies",
+      "category": "Food and Drink"
+    }
+]
