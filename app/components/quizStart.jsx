@@ -21,8 +21,8 @@ export default function QuizStart({ handleStart, setName }) {
         }
     };
     return (
-        <div className='h-[90vh] flex flex-col justify-center items-center gap-5'>
-            <h2 className='text-white text-6xl font-bold'>GkHit</h2>
+        <div className='h-[90vh] flex flex-col items-center gap-5'>
+            <h2 className='text-white mt-10 text-8xl font-bold'>GkHit</h2>
             <div className='flex flex-col'>
                 <input type='text' placeholder='enter your name...' onChange={handleNameChange} className='border border-zinc-200 text-white text-2xl p-2 rounded-lg' />
                 {!isNameOk && (
@@ -31,7 +31,7 @@ export default function QuizStart({ handleStart, setName }) {
                     </p>
                 )}
             </div>
-            {isNameOk && <button className='px-3 py-1 rounded-2xl bg-green-500 text-white font-bold bigSmall' onClick={handleStart}>START</button>}
+            {isNameOk && <button className='px-3 py-1 rounded-2xl bg-green-700 text-white font-bold bigSmall' onClick={handleStart}>START</button>}
         </div>
     )
 }

@@ -70,7 +70,7 @@ export default function QuizBody() {
     };
 
     if (quizQuestions.length === 0 || selectedQs.length === 0 ||  (num < 10 && selectedQs[num] === undefined)) {
-        return <div className='mt-8 text-white text-5xl text-center'>Error 404!!</div>;
+        return <div className='mt-8 text-white text-5xl text-center'>Loading...</div>;
     }
     return (
         <>
