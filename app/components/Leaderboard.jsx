@@ -6,17 +6,15 @@ const Leaderboard = ({name}) => {
     const [isLoading, setLoading] = useState(true);
 
     useEffect(() => {
-        fetch("http://localhost:8222/")
+        fetch("https://gkhit-backend.onrender.com/")
             .then(response => response.json())
             .then(data => {
-                console.log("data: ", data, typeof (data));
-                setLeaderboard(Array.isArray(data) ? data : [data]);
-                setLoading(false);
+                if (data) setLeaderboard(Array.isArray(data) ? data : [data]);
             })
             .catch(error => {
                 console.error(error);
-                setLoading(false);
             })
+            .finally(() => setLoading(false))
     }, [])
 
 

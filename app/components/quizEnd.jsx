@@ -3,8 +3,7 @@ import React, { useEffect } from 'react';
 export default function QuizEnd({ name, score, duration, totalQ = 10 }) {
 
     useEffect(() => {
-        console.log("duration: ", duration, "score: ", score);
-        fetch("http://localhost:8222/",{ method: "POST", headers: {'Content-Type': 'application/json'}, body: JSON.stringify({name, score, duration}) })
+        fetch("https://gkhit-backend.onrender.com/",{ method: "POST", headers: {'Content-Type': 'application/json'}, body: JSON.stringify({name, score, duration}) })
             .catch(error => {
                 console.error(error);
             })
