@@ -23,7 +23,7 @@ export default function QuizCard({ quizObj, QNo, selectedOpt, skipState, optClic
             <button
               key={index}
               onClick={optClick}
-              className={`w-full px-4 py-2 text-left rounded-lg ${selectedOpt === opt? 'bg-green-500 text-white':'bg-gray-200 text-gray-900 hover:bg-gray-300'} transition-all`}
+              className={`w-full px-4 py-2 text-left rounded-lg ${selectedOpt === opt? 'bg-zinc-500':'bg-gray-200 text-gray-900 hover:bg-gray-300'} transition-all`}
             >
               {String.fromCharCode(97 + index)}) {opt} 
             </button>
@@ -38,7 +38,7 @@ export default function QuizCard({ quizObj, QNo, selectedOpt, skipState, optClic
             className={`px-4 py-2 rounded-lg font-semibold transition ${
               QNo === 1
                 ? "bg-gray-500 text-gray-300 cursor-not-allowed"
-                : "bg-blue-600 text-white hover:bg-blue-700"
+                : "bg-green-900 text-white hover:bg-green-700"
             }`}
           >
             Previous
@@ -46,7 +46,7 @@ export default function QuizCard({ quizObj, QNo, selectedOpt, skipState, optClic
           
           <button
             onClick={nxtClick}
-            className={`px-4 py-2 rounded-lg font-semibold ${skipState ? 'bg-blue-600 text-white hover:bg-blue-700' : 'bg-gray-500 text-gray-300 cursor-not-allowed'} transition`}
+            className={`px-4 py-2 rounded-lg font-semibold ${skipState ? 'bg-green-900 text-white hover:bg-green-700' : 'bg-gray-500 text-gray-300 cursor-not-allowed'} transition`}
           >
             {QNo < 10 ? "Next" : "See Result"}
           </button>
